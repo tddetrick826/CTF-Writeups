@@ -1,4 +1,3 @@
-<img width="440" height="355" alt="Screenshot 2026-07-31 121151" src="https://github.com/user-attachments/assets/861cda03-5920-43bf-8e0c-756b29585e04" />
 # TryHackMe: Hacker Holidays 2026 - Day 1: The Concierge Knows Too Much
 
 **Date:** July 2026  
